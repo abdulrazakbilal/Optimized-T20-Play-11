@@ -8,6 +8,10 @@ Play11 Prism is a smart lineup optimization tool designed to help cricket teams 
 - Responsive design and simple interface
 - Built with [your tech stack, e.g., Python/React/Flask]
 
+## 👨‍💻 Created By
+Abdul Razak Bilal  
+[LinkedIn](https://www.linkedin.com/in/abdul-razak-bilal/)
+
 ## 🚀 Getting Started
 Clone the repo and run:
 
