@@ -1,21 +1,46 @@
 # 🏏 Play11 Prism – Optimized Cricket Lineups, Perfected
 
-Play11 Prism is a smart lineup optimization tool designed to help cricket teams select their best playing XI in T20 matches. Built with data input features and performance logic, it helps captains, coaches, and fans make informed decisions.
+**Live Site**: 👉 [play11prism.lovable.app](https://play11prism.lovable.app)
 
-## 🔥 Features
-- Manual player data entry (Name, Role, Performance, etc.)
-- Optimal Playing XI generation based on custom criteria
-- Responsive design and simple interface
-- Built with [your tech stack, e.g., Python/React/Flask]
+Play11 Prism is a smart T20 cricket lineup optimization tool. It helps you generate the best Playing XI based on player performance and role logic. Whether you’re a coach, analyst, or passionate fan, this tool simplifies the decision-making process.
 
-## 👨‍💻 Created By
-Abdul Razak Bilal  
+---
+
+## 🔧 Features
+
+- 📝 Add players manually (Name, Role, Stats)
+- 🧠 Suggests best Playing XI for T20 format
+- 🖥️ Clean and simple UI
+- 📱 Responsive on mobile and desktop
+
+---
+
+## 🚀 Tech Stack
+
+- [List here: Example – HTML, CSS, JavaScript OR React, Flask, etc.]
+
+---
+
+## 🌐 Live Demo
+
+Click here to try it live:  
+👉 **[https://play11prism.lovable.app](https://play11prism.lovable.app)**
+
+---
+
+## 🧑‍💻 Created By
+
+**Abdul Razak Bilal**  
 [LinkedIn](https://www.linkedin.com/in/abdul-razak-bilal/)
 
-## 🚀 Getting Started
-Clone the repo and run:
+_Tagline: Optimized Cricket Lineups, Perfected._
 
-```bash
-git clone https://github.com/abdulrazakbilal/Optimized-T20-Play-11
-cd Optimized-T20-Play-11
-# Install dependencies and run
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, improve, and share.
+
+---
+
