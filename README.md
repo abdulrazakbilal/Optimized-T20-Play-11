@@ -15,12 +15,6 @@ Play11 Prism is a smart T20 cricket lineup optimization tool. It helps you gener
 
 ---
 
-## 🚀 Tech Stack
-
-- [List here: Example – HTML, CSS, JavaScript OR React, Flask, etc.]
-
----
-
 ## 🌐 Live Demo
 
 Click here to try it live:  
