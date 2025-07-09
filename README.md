@@ -16,6 +16,6 @@ Abdul Razak Bilal
 Clone the repo and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Play11-Prism.git
-cd Play11-Prism
+git clone https://github.com/abdulrazakbilal/Optimized-T20-Play-11
+cd Optimized-T20-Play-11
 # Install dependencies and run
